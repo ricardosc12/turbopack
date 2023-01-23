@@ -5,6 +5,7 @@ const nextConfig = {
     // Required:
     appDir: true,
   },
+  compress:true,
 };
 
 module.exports = nextConfig;
